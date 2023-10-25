@@ -1,0 +1,20 @@
+27/02/2023,12:17:27,4HACS,Test3,60101,Log File Created
+27/02/2023,12:17:27,4HACS,Test3,60104,Software Version,2.1.20079.01
+27/02/2023,12:17:27,4HACS,Test3,60105,Console Version,10.2.20286.1
+27/02/2023,12:17:27,4HACS,Test3,60106,Controller Version,24.01.20210712
+27/02/2023,12:17:27,4HACS,Test3,60107,User Name,Uni Balgrist
+27/02/2023,12:17:27,4HACS,Test3,60108,Computer Name,DESKTOP-5944NRF
+27/02/2023,12:17:27,4HACS,Test3,60109,System Name,
+27/02/2023,12:17:27,4HACS,Test3,60110,Frame Serial Number (System ID),E3LMTM2523
+27/02/2023,12:17:27,4HACS,Test3,60110,Test Started
+27/02/2023,12:17:27,4HACS,Test3,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+27/02/2023,12:17:27,4HACS,Test3,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+27/02/2023,12:17:27,4HACS,Test3,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,12:17:27,4HACS,Test3,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,12:19:45,4HACS,Test3,60200,Test Status,Test Ended Normally
+27/02/2023,12:19:45,4HACS,Test3,60120,Total Time,137.067
+27/02/2023,12:19:45,4HACS,Test3,60121,Total Cycle Count(Linear Waveform),0
+27/02/2023,12:19:45,4HACS,Test3,62000,SHA-256,Test3.steps.tracking.csv,5682B6CF3C2343B1400459DAA5B118C34D09FB94551ECFDC3268EF63268369C7
+27/02/2023,12:19:45,4HACS,Test3,62000,SHA-256,Test3.Stop.csv,11B3CDD4AB489D1C208B4D45A15881F879A5EC91B1CC8EC834A438B5E77F0595
+27/02/2023,12:19:45,4HACS,Test3,60112,Test Finished
+27/02/2023,12:19:45,4HACS,Test3,60103,Closed

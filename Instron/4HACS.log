@@ -1,0 +1,110 @@
+27/02/2023,11:59:49,4HACS,,60101,Log File Created
+27/02/2023,11:59:49,4HACS,,60104,Software Version,2.1.20079.01
+27/02/2023,11:59:49,4HACS,,60105,Console Version,10.2.20286.1
+27/02/2023,11:59:49,4HACS,,60106,Controller Version,24.01.20210712
+27/02/2023,11:59:49,4HACS,,60107,User Name,Uni Balgrist
+27/02/2023,11:59:49,4HACS,,60108,Computer Name,DESKTOP-5944NRF
+27/02/2023,11:59:49,4HACS,,60109,System Name,
+27/02/2023,11:59:49,4HACS,,60110,Frame Serial Number (System ID),E3LMTM2523
+27/02/2023,12:10:35,4HACS,Test1,60110,Test Started
+27/02/2023,12:10:35,4HACS,Test1,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+27/02/2023,12:10:35,4HACS,Test1,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+27/02/2023,12:10:35,4HACS,Test1,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,12:10:35,4HACS,Test1,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,12:12:20,4HACS,Test1,880014,Device is not at full (high) power
+27/02/2023,12:12:20,4HACS,Test1,880014,Device is not at full (high) power
+27/02/2023,12:12:22,4HACS,Test1,880200,Waveform stopped unexpectedly
+27/02/2023,12:12:22,4HACS,Test1,60201,Test Status,Test Paused Unexpectedly
+27/02/2023,12:12:22,4HACS,Test1,60120,Total Time,107.007
+27/02/2023,12:12:22,4HACS,Test1,60121,Total Cycle Count(Linear Waveform),0
+27/02/2023,12:12:22,4HACS,Test1,60122,Step,15,Step 15
+27/02/2023,12:12:22,4HACS,Test1,60111,Test Paused
+27/02/2023,12:12:44,4HACS,Test1,62000,SHA-256,Test1.steps.tracking.csv,F54423BB0EEA2D0324E6C02EF05B1FE8EDEF87B3D4FBF690EAAF69C45CE2183F
+27/02/2023,12:12:44,4HACS,Test1,62000,SHA-256,Test1.Stop.csv,BE0E37B5F6537EC4F1D39D2A872941D3A27C1654F8906B5AD72AE90BFADFD077
+27/02/2023,12:12:44,4HACS,Test1,60112,Test Finished
+27/02/2023,12:14:09,4HACS,Test2,8802909,Linear is not in Computer Control
+27/02/2023,12:14:09,4HACS,Test2,8802909,DAU is not in Computer Control
+27/02/2023,12:14:13,4HACS,Test2,8802909,Linear is not in Computer Control
+27/02/2023,12:14:13,4HACS,Test2,8802909,DAU is not in Computer Control
+27/02/2023,12:14:31,4HACS,Test2,60110,Test Started
+27/02/2023,12:14:31,4HACS,Test2,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+27/02/2023,12:14:31,4HACS,Test2,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+27/02/2023,12:14:31,4HACS,Test2,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,12:14:31,4HACS,Test2,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,12:16:18,4HACS,Test2,60200,Test Status,Test Ended Normally
+27/02/2023,12:16:18,4HACS,Test2,60120,Total Time,106.495
+27/02/2023,12:16:18,4HACS,Test2,60121,Total Cycle Count(Linear Waveform),0
+27/02/2023,12:16:18,4HACS,Test2,62000,SHA-256,Test2.steps.tracking.csv,D5F782352FE358C03541E8FCFB96C1E7C315C5AA4813237B28B60AEAA63537EE
+27/02/2023,12:16:18,4HACS,Test2,62000,SHA-256,Test2.Stop.csv,9E0AD5529C3CB9AD33BADF89A6C7682E33E8F924DA53E7490FA078CE7270DCD6
+27/02/2023,12:16:18,4HACS,Test2,60112,Test Finished
+27/02/2023,12:17:27,4HACS,Test3,60110,Test Started
+27/02/2023,12:17:27,4HACS,Test3,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+27/02/2023,12:17:27,4HACS,Test3,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+27/02/2023,12:17:27,4HACS,Test3,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,12:17:27,4HACS,Test3,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,12:19:45,4HACS,Test3,60200,Test Status,Test Ended Normally
+27/02/2023,12:19:45,4HACS,Test3,60120,Total Time,137.067
+27/02/2023,12:19:45,4HACS,Test3,60121,Total Cycle Count(Linear Waveform),0
+27/02/2023,12:19:45,4HACS,Test3,62000,SHA-256,Test3.steps.tracking.csv,5682B6CF3C2343B1400459DAA5B118C34D09FB94551ECFDC3268EF63268369C7
+27/02/2023,12:19:45,4HACS,Test3,62000,SHA-256,Test3.Stop.csv,11B3CDD4AB489D1C208B4D45A15881F879A5EC91B1CC8EC834A438B5E77F0595
+27/02/2023,12:19:45,4HACS,Test3,60112,Test Finished
+27/02/2023,12:23:18,4HACS,Test4,60110,Test Started
+27/02/2023,12:23:18,4HACS,Test4,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+27/02/2023,12:23:18,4HACS,Test4,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+27/02/2023,12:23:18,4HACS,Test4,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,12:23:18,4HACS,Test4,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,12:25:05,4HACS,Test4,60200,Test Status,Test Ended Normally
+27/02/2023,12:25:05,4HACS,Test4,60120,Total Time,105.983
+27/02/2023,12:25:05,4HACS,Test4,60121,Total Cycle Count(Linear Waveform),0
+27/02/2023,12:25:05,4HACS,Test4,62000,SHA-256,Test4.steps.tracking.csv,2E19D1399C31CBEF7EDB7DCC65723A87ACAC98EFC88A1D2D451D8985DAED469B
+27/02/2023,12:25:05,4HACS,Test4,62000,SHA-256,Test4.Stop.csv,2E19D1399C31CBEF7EDB7DCC65723A87ACAC98EFC88A1D2D451D8985DAED469B
+27/02/2023,12:25:05,4HACS,Test4,60112,Test Finished
+27/02/2023,12:25:18,4HACS,Test5,60110,Test Started
+27/02/2023,12:25:18,4HACS,Test5,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+27/02/2023,12:25:18,4HACS,Test5,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+27/02/2023,12:25:18,4HACS,Test5,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,12:25:18,4HACS,Test5,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,12:27:04,4HACS,Test5,60200,Test Status,Test Ended Normally
+27/02/2023,12:27:04,4HACS,Test5,60120,Total Time,105.983
+27/02/2023,12:27:04,4HACS,Test5,60121,Total Cycle Count(Linear Waveform),0
+27/02/2023,12:27:04,4HACS,Test5,62000,SHA-256,Test5.steps.tracking.csv,9852D2BD87D6FB887449CCACF1A9CBA1C4791E246EF4C486321F9224D860F713
+27/02/2023,12:27:04,4HACS,Test5,62000,SHA-256,Test5.Stop.csv,9852D2BD87D6FB887449CCACF1A9CBA1C4791E246EF4C486321F9224D860F713
+27/02/2023,12:27:04,4HACS,Test5,60112,Test Finished
+27/02/2023,12:27:33,4HACS,Test6,60110,Test Started
+27/02/2023,12:27:33,4HACS,Test6,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+27/02/2023,12:27:33,4HACS,Test6,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+27/02/2023,12:27:33,4HACS,Test6,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,12:27:33,4HACS,Test6,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,12:29:19,4HACS,Test6,60200,Test Status,Test Ended Normally
+27/02/2023,12:29:19,4HACS,Test6,60120,Total Time,105.983
+27/02/2023,12:29:19,4HACS,Test6,60121,Total Cycle Count(Linear Waveform),0
+27/02/2023,12:29:19,4HACS,Test6,62000,SHA-256,Test6.steps.tracking.csv,BE036A3A8F0256540211731DD324F8B9FFCD3062F1EA1076E8149E0005A4DE90
+27/02/2023,12:29:19,4HACS,Test6,62000,SHA-256,Test6.Stop.csv,BE036A3A8F0256540211731DD324F8B9FFCD3062F1EA1076E8149E0005A4DE90
+27/02/2023,12:29:19,4HACS,Test6,60112,Test Finished
+27/02/2023,12:36:02,4HACS,Test7,60110,Test Started
+27/02/2023,12:36:02,4HACS,Test7,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+27/02/2023,12:36:02,4HACS,Test7,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+27/02/2023,12:36:02,4HACS,Test7,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,12:36:02,4HACS,Test7,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,13:09:49,4HACS,Test7,60200,Test Status,Test Ended Normally
+27/02/2023,13:09:49,4HACS,Test7,60120,Total Time,2027.007
+27/02/2023,13:09:49,4HACS,Test7,60121,Total Cycle Count(Linear Waveform),1000
+27/02/2023,13:09:54,4HACS,Test7,62000,SHA-256,Test7.steps.tracking.csv,C681BC6B67B1E29C180C490286EC540096133737869D47D3E2B1AA8397E616DF
+27/02/2023,13:09:54,4HACS,Test7,62000,SHA-256,Test7.Stop.csv,A64448F751D3EB0FA0E7990B84B01672356A840D73F70C631F387AFD6F3F486F
+27/02/2023,13:09:54,4HACS,Test7,60112,Test Finished
+27/02/2023,14:20:39,4HACS,Test8,60110,Test Started
+27/02/2023,14:20:39,4HACS,Test8,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+27/02/2023,14:20:39,4HACS,Test8,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+27/02/2023,14:20:39,4HACS,Test8,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,14:20:39,4HACS,Test8,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,14:21:36,4HACS,Test8,880014,Device is not at full (high) power
+27/02/2023,14:21:36,4HACS,Test8,880014,Device is not at full (high) power
+27/02/2023,14:21:38,4HACS,Test8,880200,Waveform stopped unexpectedly
+27/02/2023,14:21:39,4HACS,Test8,60201,Test Status,Test Paused Unexpectedly
+27/02/2023,14:21:39,4HACS,Test8,60120,Total Time,60.159
+27/02/2023,14:21:39,4HACS,Test8,60121,Total Cycle Count(Linear Waveform),0
+27/02/2023,14:21:39,4HACS,Test8,60122,Step,3,Step 3
+27/02/2023,14:21:39,4HACS,Test8,60111,Test Paused
+27/02/2023,14:21:51,4HACS,Test8,62000,SHA-256,Test8.steps.tracking.csv,7B6D7E9479319DFCA56AD6CF21890892BACC559C18DDC30DB060F5254C3A48AB
+27/02/2023,14:21:51,4HACS,Test8,62000,SHA-256,Test8.Stop.csv,D3EADFCBC7F6B0A2EDB05522EDB2A3F31FCBF58E0F770A2C3E0355DE775E6AF8
+27/02/2023,14:21:51,4HACS,Test8,60112,Test Finished

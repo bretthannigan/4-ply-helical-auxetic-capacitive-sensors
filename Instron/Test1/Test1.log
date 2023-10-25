@@ -1,0 +1,25 @@
+27/02/2023,12:10:35,4HACS,Test1,60101,Log File Created
+27/02/2023,12:10:35,4HACS,Test1,60104,Software Version,2.1.20079.01
+27/02/2023,12:10:35,4HACS,Test1,60105,Console Version,10.2.20286.1
+27/02/2023,12:10:35,4HACS,Test1,60106,Controller Version,24.01.20210712
+27/02/2023,12:10:35,4HACS,Test1,60107,User Name,Uni Balgrist
+27/02/2023,12:10:35,4HACS,Test1,60108,Computer Name,DESKTOP-5944NRF
+27/02/2023,12:10:35,4HACS,Test1,60109,System Name,
+27/02/2023,12:10:35,4HACS,Test1,60110,Frame Serial Number (System ID),E3LMTM2523
+27/02/2023,12:10:35,4HACS,Test1,60110,Test Started
+27/02/2023,12:10:35,4HACS,Test1,60300,Tuning Settings (Linear) - Load String Stiffness(N/mm) = 0.0
+27/02/2023,12:10:35,4HACS,Test1,60300,Tuning Settings (Linear:Position) - Stiffness Based Tuning state = FixedTuning  
+27/02/2023,12:10:35,4HACS,Test1,60300,Tuning Settings (Linear:Load) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,12:10:35,4HACS,Test1,60300,Tuning Settings (Linear:Digitale Position) - Stiffness Based Tuning state = DefaultTuned  
+27/02/2023,12:12:20,4HACS,Test1,880014,Device is not at full (high) power
+27/02/2023,12:12:20,4HACS,Test1,880014,Device is not at full (high) power
+27/02/2023,12:12:22,4HACS,Test1,880200,Waveform stopped unexpectedly
+27/02/2023,12:12:22,4HACS,Test1,60201,Test Status,Test Paused Unexpectedly
+27/02/2023,12:12:22,4HACS,Test1,60120,Total Time,107.007
+27/02/2023,12:12:22,4HACS,Test1,60121,Total Cycle Count(Linear Waveform),0
+27/02/2023,12:12:22,4HACS,Test1,60122,Step,15,Step 15
+27/02/2023,12:12:22,4HACS,Test1,60111,Test Paused
+27/02/2023,12:12:44,4HACS,Test1,62000,SHA-256,Test1.steps.tracking.csv,F54423BB0EEA2D0324E6C02EF05B1FE8EDEF87B3D4FBF690EAAF69C45CE2183F
+27/02/2023,12:12:44,4HACS,Test1,62000,SHA-256,Test1.Stop.csv,BE0E37B5F6537EC4F1D39D2A872941D3A27C1654F8906B5AD72AE90BFADFD077
+27/02/2023,12:12:44,4HACS,Test1,60112,Test Finished
+27/02/2023,12:12:44,4HACS,Test1,60103,Closed
